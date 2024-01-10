@@ -1,41 +1,41 @@
 # SIWFT Terms of Service and Use
+## General Guidelines
 
-## Allgemeine Richtlinien
+  * The Wallet is a game and not a real payment method. It should not be associated with real money
+  * The currency of the Wallet does not have a unique name or symbol and should not be confused with the names or symbols of real currencies.
+  * The target audience of the Wallet are teenagers, children and adults.
 
-* Das Wallet ist ein Spiel und kein echtes Zahlungsmittel. Es ist nicht mit echtem Geld in Verbindung zu bringen.
-* Die Währung des Wallets hat keinen eindeutigen Namen oder Zeichen und darf nicht mit den Namen oder Zeichen echter Währungen verwechselt werden.
-* Die Zielgruppe des Wallets sind Jugendliche, Kinder und Erwachsene
+## Guidelines for Wallet Hubs:
+* Wallet Hubs are required to verify themselves before registering.
+* Wallet Hubs are required to keep their customer data secure.
+* Wallet Hubs are required to make their transactions transparent.
+* Wallet Hubs are required to take action against fraud and digital asset laundering.
+* Wallet Hubs are required to Inform their Wallet Holders on our [Privacy](https://github.com/SIWFT/.github/blob/main/profile/PRIVACY.md) and [ToSaU](https://github.com/SIWFT/.github/blob/main/profile/TOSaU.md) changes and also requires to accept them. Wallet Holders are liable for this violation and not we.
 
-## Richtlinien für Wallet Hubs
+## Guidelines for Wallet Holders:
+* Customers are required to provide their personal information truthfully
+* Customers are required to comply with the Wallet's guidelines.
+* Customers are required to keep their Wallets safe.
 
-* Wallet Hubs sind verpflichtet, sich vor der Registrierung zu verifizieren.
-* Wallet Hubs sind verpflichtet, ihre Kundendaten sicher zu verwahren.
-* Wallet Hubs sind verpflichtet, ihre Transaktionen transparent zu machen.
-* Wallet Hubs sind verpflichtet, gegen Betrug und gegen Digital Asset Wäsche vorzugehen.
+## Special Guidelines:
+* It is prohibited to use the Wallet for illegal activities, such as money laundering, terrorist financing, distribution of child pornography or other criminal acts and physical objects.
+* It is prohibited to use the Wallet for spam or phishing.
+* It is prohibited to use the Wallet for the spread of hate speech or discrimination.
+* It is prohibited to purchase physical products using this system. All products that are created through a transaction that is associated with or may be associated with SIWFT may only be digital.
+* It is prohibited to name the content and services associated with SIWFT with real names such as dollar, bank, euro, etc.
 
-## Richtlinien für Wallet Inhaber
-* Kunden sind verpflichtet, ihre persönlichen Daten wahrheitsgemäß anzugeben.
-* Kunden sind verpflichtet, die Richtlinien des Wallets einzuhalten.
-* Kunden sind verpflichtet, ihre Wallets sicher zu verwahren.
+## Sanctions:
+* Violations of the guidelines may result in the blocking of the Wallet.
+* In serious cases, legal action may also be taken.
 
-## Besondere Richtlinien
-* Es ist verboten, das Wallet für illegale Aktivitäten zu nutzen, z. B. für Geldwäsche, Terrorismusfinanzierung, Verbreitung von Kinderpornografie oder sonstigen Krimminellen Handlungen und Physischen gegenständen
-* s ist verboten, das Wallet für Spam oder Phishing zu nutzen.
-* Es ist verboten, das Wallet für die Verbreitung von Hassrede oder Diskriminierung zu nutzen.
-* Es ist verboten, Physische Produkte mithilfe dieses Systems zu Kaufen. Alle Produkte die durch eine Transaktionen instande kommen das in Verbindung mit der SIWFT stehen oder stehen können dürfen nur Digital sein.
-* Es ist verboten, die mit dem SIWFT in Verbindung stehenden Inhalte und Services mit realen Namen wie Dollar, Bank, Euro etc zu bennen.
-## Sanktionen
-* Verstöße gegen die Richtlinien können zur Sperrung des Wallets führen.
-* In schweren Fällen können auch rechtliche Schritte eingeleitet werden.
+## Explanations:
 
-## Erläuterungen
+The general guidelines apply to all users of the Wallet. The guidelines for Wallet Hubs, Wallets and Businesses and other users apply to the respective user groups. The special guidelines apply to all users and are intended to protect the Wallet from illegal and harmful activities.
 
-* Die allgemeinen Richtlinien sind für alle Nutzer des Wallets gültig. Die Richtlinien für Wallet Hubs, Wallets und Unternehmen und sonstige Nutzern gelten für die jeweiligen Nutzergruppen. Die besonderen Richtlinien gelten für alle Nutzer und sollen das Wallet vor illegalen und schädlichen Aktivitäten schützen.
+The verification of Wallet Hubs and Businesses serves to ensure the identity of the users. The transparency of transactions is intended to increase the trustworthiness of the Wallet. Protection against fraud and money laundering is important to protect the Wallet from misuse.
 
-* Die Verifizierung von Wallet Hubs und Unternehmen dient dazu, die Identität der Nutzer sicherzustellen. Die Transparenz von Transaktionen soll die Vertrauenswürdigkeit des Wallets erhöhen. Der Schutz gegen Betrug und Geldwäsche ist wichtig, um das Wallet vor Missbrauch zu schützen.
+The guidelines for customers and businesses also apply to the use of the Wallet by teenagers, children and adults. Children, teenagers and adults should be aware that the Wallet is a game and should not be associated with real money. They should comply with the Wallet's guidelines to protect the Wallet from misuse.
 
-* Die Richtlinien für Kunden und Unternehmen gelten auch für die Verwendung des Wallets durch Jugendliche, Kinder und Erwachsenen. Kinder, Jugendliche und Erwachsene sollten sich bewusst sein, dass das Wallet ein Spiel ist und nicht mit echtem Geld in Verbindung gebracht werden sollte. Sie sollten die Richtlinien des Wallets einzuhalten, um das Wallet vor Missbrauch zu schützen.
+The special guidelines are important to protect the Wallet from illegal and harmful activities. Violations of these guidelines may result in the blocking of the Wallet. In serious cases, legal action may also be taken.
 
-* Die besonderen Richtlinien sind wichtig, um das Wallet vor illegalen und schädlichen Aktivitäten zu schützen. Verstöße gegen diese Richtlinien können zur Sperrung des Wallets führen. In schweren Fällen können auch rechtliche Schritte eingeleitet werden
-
-* Es können jederzeit änderungen an allen Richtlinien und Datenschutzbedingte Texte Vorgenommen werden und sind nach der Veröffentlich sofort Gültig!
+Changes to all guidelines and privacy-related texts can be made at any time and are immediately valid after publication!
