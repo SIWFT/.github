@@ -55,7 +55,7 @@
 * Some of our websites can also be hosted on GitHub Pages. Please refer to the GitHub Pages privacy policy.
 * Our websites that are not hosted on GitHub Pages but in a data center or locally use log files. These include your Cloudflare Ray-ID, your user agent, access date and time, the time the request was successfully completed, and the request method. They are stored indefinitely to track errors and suspicious access and to take action against them.
 * Our websites can also integrate external content. This is either required for technical reasons or due to budget or storage space limitations.
-
+* **Usage of Cloudflare Turnstile** SIWFT is using Cloudflare Turnstile to prevent automated Contact requests and other security relevant issues. 
 
 # Changes to this privacy policy
 
