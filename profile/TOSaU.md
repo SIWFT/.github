@@ -23,7 +23,8 @@
 * It is prohibited to use the Wallet for the spread of hate speech or discrimination.
 * It is prohibited to purchase physical products using this system. All products that are created through a transaction that is associated with or may be associated with SIWFT may only be digital.
 * It is prohibited to name the content and services associated with SIWFT with real names such as dollar, bank, euro, etc.
-
+* Due to legal reasons it's not allowed to use SIWFT for Online Shopping Services like Shopify, Amazon and more. But it's still allowed to implement SIWFT into Discord-, Revolt-, Guilded Bots.
+ 
 ## Sanctions:
 * Violations of the guidelines may result in the blocking of the Wallet.
 * In serious cases, legal action may also be taken.
